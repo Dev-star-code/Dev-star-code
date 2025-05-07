@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Dev-star-code</h1>
-<h3 align="center">Passionate Developer | Creative Designer | Tech Enthusiast | Content creator </h3>
+<h3 align="center"> Developer | Creative Designer | Tech Enthusiast | Content creator </h3>
 
 ---
 
