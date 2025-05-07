@@ -6,9 +6,6 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **web development, design projects, and video content**
-- 🌱 I’m currently learning **Full Stack Development, C++, and Arduino**
-- 🤝 I’m looking to collaborate on **creative software and design projects**
-- 💬 Ask me about **HTML, CSS, JS, Python, C/C++, Git, WordPress, and Editing Tools**
 - 📫 Reach me at: **developerdesigner63@gmail.com**
 - 😄 Pronouns: **He/Him**
 
@@ -46,7 +43,7 @@
 ## 📫 Let's Connect
 
 📧 Email: developerdesigner63@gmail.com  
-
+Youtube:-@codepanda_code
 ---
 
 ⭐ *Thanks for visiting my profile! Let's build something amazing together.*
