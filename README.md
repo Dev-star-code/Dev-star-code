@@ -43,28 +43,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-star-code&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-star-code&layout=compact&theme=github_dark&hide_border=true" width="47%" />
-</div>
-
----
-
-## 🔥 Streak & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-star-code&theme=github-dark&hide_border=true" width="47%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-star-code&theme=github_dark" width="47%" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
-📧 Email: [developerdesigner63@gmail.com](mailto:developerdesigner63@gmail.com)  
-💬 Feel free to reach out for collaboration or just to say hi!
+📧 Email: developerdesigner63@gmail.com  
 
 ---
 
